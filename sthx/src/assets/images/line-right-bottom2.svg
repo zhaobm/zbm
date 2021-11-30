@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="28" viewBox="0 0 90 28">
+  <defs>
+    <radialGradient id="line-内右下-a" cx="100%" cy="100%" r="49.385%" fx="100%" fy="100%" gradientTransform="matrix(0 1 -.8045 0 1.805 0)">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#85F3FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#line-内右下-a)" d="M3246,163 L3246,108 L3247,108 L3247,163 C3247,164.104569 3246.10457,165 3245,165 L3020,165 L3020,164 L3245,164 C3245.55228,164 3246,163.552285 3246,163 Z" transform="translate(-3157 -137)"/>
+</svg>

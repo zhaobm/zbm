@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="64" viewBox="0 0 124 64">
+  <defs>
+    <radialGradient id="bg-一级导航标签-a" cy="102.067%" r="73.681%" fx="50%" fy="102.067%" gradientTransform="matrix(0 1 -.70276 0 1.217 .52)">
+      <stop offset="0%" stop-color="#0093A3" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#0093A3" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="bg-一级导航标签-b" width="255.6%" height="163.6%" x="-77.8%" y="-22.7%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"/>
+    </filter>
+    <linearGradient id="bg-一级导航标签-d" x1="100%" x2="3.179%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#00AABD" stop-opacity="0"/>
+      <stop offset="49.367%" stop-color="#FFF"/>
+      <stop offset="100%" stop-color="#00AABD" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g>
+      <rect width="124" height="64" fill="url(#bg-一级导航标签-a)" fill-rule="nonzero"/>
+      <g fill="#60DBD1">
+        <use filter="url(#bg-一级导航标签-b)" xlink:href="#bg-一级导航标签-c"/>
+        <use xlink:href="#bg-一级导航标签-c"/>
+      </g>
+    </g>
+    <rect width="124" height="2" y="62" fill="url(#bg-一级导航标签-d)" fill-rule="nonzero"/>
+  </g>
+</svg>

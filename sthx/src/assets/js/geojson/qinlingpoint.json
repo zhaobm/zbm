@@ -1,0 +1,19 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.81794665667037,34.28905490201343]},"properties":{"Id":0,"分级":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.74659515124877,34.09156412807863]},"properties":{"Id":0,"分级":2}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.78435667933276,33.852593372277084]},"properties":{"Id":0,"分级":3}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[109.02563050280826,33.90362935933422]},"properties":{"Id":0,"分级":4}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[109.0765958638237,34.04824357121551]},"properties":{"Id":0,"分级":null}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[109.05518729121027,34.1510339722103]},"properties":{"Id":0,"分级":5}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.98249947592547,34.09860063485159]},"properties":{"Id":0,"分级":6}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.86317841457156,34.11513560754827]},"properties":{"Id":0,"分级":7}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.64721269726867,33.985811003971605]},"properties":{"Id":0,"分级":8}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.69754099127141,34.23299300489646]},"properties":{"Id":0,"分级":9}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.59624733625323,34.18139057686833]},"properties":{"Id":0,"分级":8}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[109.12246468873758,33.87878374583919]},"properties":{"Id":0,"分级":26}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[109.11864228666143,34.257201551378785]},"properties":{"Id":0,"分级":74}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.90140243533314,33.96223952450197]},"properties":{"Id":0,"分级":46}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[109.14476203418184,33.83036665287453]},"properties":{"Id":0,"分级":336}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.86763788366042,34.22088873165529]},"properties":{"Id":0,"分级":77}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.94408592518357,34.27631356175957]},"properties":{"Id":0,"分级":77}}
+]}

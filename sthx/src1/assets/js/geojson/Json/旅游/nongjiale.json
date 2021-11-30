@@ -1,0 +1,9 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.48749600648422,34.05196162527591]},"properties":{"区域":"西安市鄠邑区蒋村镇白龙村","描述":"联馨饭店描述.htm","影像":"联馨饭店影像.htm","别墅名":"联馨饭店","影像视频":"lxfd.html"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.51512894002254,34.04301507945903]},"properties":{"区域":"西安市鄠邑区蒋村镇曹村","描述":"红鼎鱼庄描述.htm","影像":"红鼎鱼庄影像.htm","别墅名":"红鼎鱼庄","影像视频":"hdyz.html"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.5176000416117,34.02850080881376]},"properties":{"区域":"西安市鄠邑区蒋村镇富村窑","描述":"苗正山寨农家乐描述.htm","影像":"苗正山寨农家乐影像.htm","别墅名":"苗正山寨农家乐","影像视频":"mzsznjl.html"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.46843359582203,34.05142746103294]},"properties":{"区域":"西安市鄠邑区蒋村镇柳泉口村","描述":"魁星高照农家乐描述.htm","影像":"魁星高照农家乐影像.htm","别墅名":"魁星高照农家乐","影像视频":"kxgznjl.html"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.53215013160424,33.812138887084586]},"properties":{"区域":"西安市鄠邑区景区管理局八里坪村","描述":"聚贤农家乐描述.htm","影像":"聚贤农家乐影像.htm","别墅名":"聚贤农家乐","影像视频":"jxnjl.html"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.70636423097156,33.98440174891358]},"properties":{"区域":"西安市鄠邑区景区管理局家佛堂村","描述":"罗家大院描述.htm","影像":"罗家大院影像.htm","别墅名":"罗家大院","影像视频":"ljdy.html"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.65832427466552,33.928095558095826]},"properties":{"区域":"西安市鄠邑区景区管理局煤场村","描述":"老罗农家乐描述.htm","影像":"老罗农家乐影像.htm","别墅名":"老罗农家乐","影像视频":"llnjl.html"}}
+]}

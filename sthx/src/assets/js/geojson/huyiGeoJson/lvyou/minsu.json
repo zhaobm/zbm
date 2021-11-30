@@ -1,0 +1,12 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.6706879107356,33.94146875593494]},"properties":{"区域":"西安市鄠邑区景区管理局营坪村","描述":"遇见七号描述.htm","影像":"遇见七号影像.htm","影像视频":"yjqh.html","名字":"遇见七号"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.53518503722069,34.030353328481816]},"properties":{"区域":"西安市鄠邑区景区管理局西涝峪口村","描述":"唐爵山宿描述.htm","影像":"唐爵山宿影像.htm","影像视频":"tjss.html","名字":"唐爵山宿"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.53731584493605,34.05405247085179]},"properties":{"区域":"西安市鄠邑区天桥镇胡家庄村","描述":"终南原乡描述.htm","影像":"终南原乡影像.htm","影像视频":"znyx.html","名字":"终南原乡"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.61581390601094,34.109871303579496]},"properties":{"区域":"西安市鄠邑区","描述":"德圣坊民宿描述.htm","影像":"德圣坊民宿影像.htm","影像视频":"dsfms.html","名字":"德圣坊民宿"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.56640626022194,33.78759715737203]},"properties":{"区域":"西安市鄠邑区","描述":"秋香民宿描述.htm","影像":"秋香民宿影像.htm","影像视频":"qxms.html","名字":"秋香民宿"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.54460098308297,33.80221631984669]},"properties":{"区域":"西安市鄠邑区","描述":"青山花舍描述.htm","影像":"青山花舍影像.htm","影像视频":"qshs.html","名字":"青山花舍"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.53023262238477,33.814444931673904]},"properties":{"区域":"西安市鄠邑区","描述":"美式木屋描述.htm","影像":"美式木屋影像.htm","影像视频":"msmw.html","名字":"美式木屋"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.51279707107346,33.827133232166354]},"properties":{"区域":"西安市鄠邑区","描述":"两棵树描述.htm","影像":"两棵树影像.htm","影像视频":"lks.html","名字":"两棵树"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.5283793145764,33.816974728754715]},"properties":{"区域":"西安市鄠邑区","描述":"漫步灵犀描述.htm","影像":"漫步灵犀影像.htm","影像视频":"mblx.html","名字":"漫步灵犀"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[108.70624904084268,33.98483419994599]},"properties":{"区域":"西安市鄠邑区","描述":"山林水阁描述.htm","影像":"山林水阁影像.htm","影像视频":"slsg.html","名字":"山林水阁"}}
+]}

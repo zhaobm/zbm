@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.70962292428842,
+          34.000272050769325
+        ]
+      },
+      "properties": {
+        "站长": "滑益平",
+        "站名": "区保护总站",
+        "上级机构": "",
+        "电话": "1384621256",
+        "级别": "一级"
+      }
+    }
+  ]
+}
